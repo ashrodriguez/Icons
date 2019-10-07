@@ -1,8 +1,9 @@
-body {background-color: #E8BBA9;
-	  color: #B33E29}
+body {
+	background-color: #E8BBA9;
+	  color: #B33E29
+	}
 .blurbtext {
 	color:#B3756F;
-	font-family: sans-serif;
 	font-size: 20px;
 	font-weight: 200;
 	width: 70%;}
@@ -11,7 +12,7 @@ body {background-color: #E8BBA9;
 	font-size: 20px;
 	font-weight: 800;
 	width: 70%; 
-	display: inline;
+	display: inline
 }
 .assignmentrow1 {
 	color:#B3756F;
